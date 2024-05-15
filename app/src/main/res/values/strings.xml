@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translate App</string>
+    <string name="feedback">feed back </string>
+    <string name="your_feedback"> your feed back </string>
+    <string name="paragraph">Welcome Every One</string>
+    <string name="save">Save</string>
+</resources>
